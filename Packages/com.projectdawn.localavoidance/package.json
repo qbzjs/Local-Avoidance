@@ -1,0 +1,26 @@
+{
+  "name": "com.projectdawn.localavoidance",
+  "displayName": "Local Avoidance",
+  "version": "2.1.0",
+  "unity": "2019.4",
+  "keywords": [
+    "ai",
+    "avoidance",
+    "agent",
+    "path",
+    "navigation"
+  ],
+  "dependencies": {
+    "com.unity.mathematics": "1.2.5",
+    "com.unity.collections": "0.9.0-preview.6",
+    "com.unity.burst": "1.3.0-preview.12"
+  },
+  "description": "Local avoidance allows agent to avoid dynamic obstacles, with accuracy, speed and not requiring pre processing.",
+  "type": "tool",
+  "unityRelease": "35f1",
+  "author": {
+    "name": "Lukas Chodosevicius",
+    "email": "lukaschodosevicius@gmail.com",
+    "url": "https://assetstore.unity.com/publishers/62140"
+  }
+}
