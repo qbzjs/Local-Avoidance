@@ -1,5 +1,33 @@
 {
   "dependencies": {
+    "com.gamestan.lockstepaibehaviourtree": {
+      "version": "https://github.com/JiepengTan/Lockstep.BehaviourTree.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c17e940821ad4eb0f94348c1fa2d0be725d47e14"
+    },
+    "com.gamestan.lockstepdebug": {
+      "version": "https://github.com/JiepengTan/Lockstep.Debug.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b4bc6ad57fbac132183401434af77c922d313bad"
+    },
+    "com.gamestan.lockstepmath": {
+      "version": "https://github.com/JiepengTan/Lockstep.Math.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4ea82c715fb67dc698568914a342839726fa9368"
+    },
+    "com.gamestan.lockstepserializer": {
+      "version": "https://github.com/JiepengTan/Lockstep.Serializer.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f3d2b0865a209c97e5d37c70f5984640e6889243"
+    },
     "com.projectdawn.localavoidance": {
       "version": "file:com.projectdawn.localavoidance",
       "depth": 0,

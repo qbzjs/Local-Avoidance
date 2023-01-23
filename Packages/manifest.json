@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.gamestan.lockstepaibehaviourtree": "https://github.com/JiepengTan/Lockstep.BehaviourTree.git",
+    "com.gamestan.lockstepdebug": "https://github.com/JiepengTan/Lockstep.Debug.git",
+    "com.gamestan.lockstepmath": "https://github.com/JiepengTan/Lockstep.Math.git",
+    "com.gamestan.lockstepserializer": "https://github.com/JiepengTan/Lockstep.Serializer.git",
     "com.unity.2d.pixel-perfect": "5.0.2",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
